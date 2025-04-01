@@ -13,4 +13,13 @@ Bitácora del equipo "The IFIs" para la materia de modelación de sistemas deter
   - 
 
 ## Semana 2 (31 de marzo - 4 de abril)
+- **Objetivo:** Estudiar y comprender a profundidad el reto. Definir el punto de partida para la primera propuesta del equipo.  
+- **Responsables:** Audrey, Espartaco, Dan y Hector
+- **Avances:**
+  - 
+  - 
+- **Problemas:**
+  - 
+- **Soluciones:**
+  - 
 ...
