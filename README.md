@@ -36,13 +36,16 @@
 - Definir el punto de partida para la primera propuesta del equipo 
 
 ### 🛠 Actividades realizadas 
-
+- Nos reunimos el Sábado 5 de Abril y discutimos ideas. Entre ellas, abordamos parametros independientes en el movimiento de las cuchillas y el efecto que tiene el tipo de pasto en el corte. Encontramos un paper que caracterizaba el pasto y planeabamos usarlo para empezar a modelar el torque necesario para el corte.
+- Para las ecuaciones utilizamos las medidas del RC 2048 para tener una idea más cercana a las propiedades caracteristicas.
+-  
 ### 🚧 Problemas encontrados
-
+- La longitud de las cuchillas y del plato para calcular el momento de Inercia y la velocidad angular de la cuchilla.
+- No terminamos de definir la relación entre la fuerza de corte y la resistencia del pasto. Pensamos en un coeficiente.
 ### 💡 Soluciones aplicadas o propuestas
-
+- Proponer una ecuación para el torque usado en el pasto.
 ### 📌 Tareas pendientes
-
+- Documento entregable
 ## 💬 Comentarios adicionales 
 
 
